@@ -35,9 +35,10 @@ yarn start
 > packages used
 
 <!-- prettier-ignore -->
-| Name      |Links|Description|
-|-----------| ------| -----------|
+| Name      |           Links       |       Description     |
+|------------------| ------| -----------|
 
 |Ractjs | [React](https://reactjs.org/)|react is a free and open source font-end javScript libaray for building user interfacws based on UI componts.|
 |tailwind ss | [tailwindcss](htps://tailwindcss.com)|tailwindcss is a framwork like no other. Rather than constrainig you to a set dwsign , it gives o to tools na dth standradi to buil extly what you wat.|
+
 # food-delivery-app
